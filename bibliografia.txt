@@ -1,1 +1,2 @@
-charc,s.and Straub, B.Pro Git. Apress
+charc,s.and Strauryan hodb, B.Pro Git. Apress
+ryan hodson. ry' s git tutoria. smashword (2014)
